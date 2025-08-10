@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Initializable",
+  "sourceName": "contracts/StrataForgeTokenImplementation.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "AlreadyInitialized",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212209e1e82b42e6eeac0f21761651553a114f118174f693b323557ed94705271b1c564736f6c634300081a0033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212209e1e82b42e6eeac0f21761651553a114f118174f693b323557ed94705271b1c564736f6c634300081a0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
