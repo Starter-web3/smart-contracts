@@ -115,21 +115,20 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts --network coreTestnet
 
 ## Deployed Contracts
 
-### === Deployment Summary ===
+ ** Deployment Summary **
 
-Network: Core Testnet (1115)
-Deployer: 0x0eE1F2b663547dAa487F57C517C7563AdCf86da0
+Core Contracts:
+StrataForgeAdmin: 0x4eB7bba93734533350455B50056c33e93DD86493
+StrataForgeFactory: 0x0b5870D52E5b0b2dDD75a66BC124DF350643C682
+StrataForgeAirdropFactory: 0xFe9fDE126C4aE4Be8A6D4F1Da284611935726920
+StrataForgeProxyFactory: 0x036Cf39BA8CbcBfEa786C9d1d34009208ED57D74
 
-Contract Addresses:
-├── StrataForgeAdmin: 0x52CD9E0eb7863Ee69e951f78fD3cfFe7967d7B90
-├── StrataForgeERC20Implementation: 0xaF21C8C1F730c1004F7e84b806629F4A7838F461
-├── StrataForgeERC721Implementation: 0xf8cEb019C9e68C00c5Edf7AcFD14d917e77db5B2
-├── StrataForgeERC1155Implementation: 0x18aD38501d3dEAdDE288476aa2c3a42906Ee5961
-├── StrataForgeMemecoinImplementation: 0x1deDc0F6DB748c3060Fe7f9562294c1270eaa3B3
-├── StrataForgeStablecoinImplementation: 0xcedbd489DEbf2e13ED1D76475dE34c6fF504A556
-├── StrataForgeProxyFactory: 0xDcA0A7B7Bf11D1105A68f752c7f47320aba351af
-├── StrataForgeFactory: 0x4A620e8C10514c7EE20ad27Df361a605236B1f21
-└── StrataForgeAirdropFactory: 0x8284386B664D1e3838A1fB7403af9c0b4478E70E
+Token Implementations:
+StrataForgeERC20Implementation: 0x335cC8C654657bEd47e538974A202A8708c7C0d3
+StrataForgeERC721Implementation: 0x293E6327c7e65aDe95675563Da0C2e49CCF43485
+StrataForgeERC1155Implementation: 0x15b1a0818a0b475d889A3FF01EF53Ef8349fD3Ac
+StrataForgeMemecoinImplementation: 0xaf23a66689e55f08B24271Ce2dB6c5522F666d05
+StrataForgeStablecoinImplementation: 0xfaF064467DF1c72f93b48956C11D92359d5a3f99
 
 ## License
 
